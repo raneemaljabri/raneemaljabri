@@ -4,8 +4,13 @@
  <a href="https://www.linkedin.com/in/raneem-abdulrahman-aljabri" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" />
 </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="35" alt="microsoft-outlook logo"  />
+ <a href="https://twitter.com/Ranim3B" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo" />
+</a>
+
+<a href="mailto:i.raneemaljabri@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="35" alt="microsoft-outlook logo" />
+</a>
 </div>
 
 ###
