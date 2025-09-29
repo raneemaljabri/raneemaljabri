@@ -1,16 +1,9 @@
 <br clear="both">
 
 <div align="center">
- <a href="https://www.linkedin.com/in/raneem-abdulrahman-aljabri" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" />
-</a>
- <a href="https://twitter.com/Ranim3B" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo" />
-</a>
-
-<a href="mailto:i.raneemaljabri@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="35" alt="microsoft-outlook logo" />
-</a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="35" alt="microsoft-outlook logo"  />
 </div>
 
 ###
@@ -31,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">- 💻 Web developer with experience in both front-end and back-end<br>- 🔹 Skilled in Java, Flutter, HTML, CSS, and databases<br>- 🚀 Currently exploring DevOps to enhance development workflows<br>- ⚡ Passionate about solving problems and optimizing code<br>- 🔥 Always learning and keeping up with the latest tech trends</p>
+<p align="left">-  🚀 Junior DevOps Engineer with a strong foundation in cloud and automation<br>- 💻 Web developer with experience in both front-end and back-end<br>- 🔹 Skilled in Java, Flutter, HTML, CSS, and databases<br>- ⚡ Passionate about solving problems and optimizing code<br>- 🔥 Always learning and keeping up with the latest tech trends</p>
 
 ###
 
@@ -67,6 +60,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
